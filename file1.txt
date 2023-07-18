@@ -1,6 +1,6 @@
 Hello World!
 12345
 Good bye!
-asdf
-Line from user2
-some new feature
+line from user2
+Line from user1
+line from user1 -  lesson about rebase
