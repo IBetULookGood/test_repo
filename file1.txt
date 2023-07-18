@@ -3,3 +3,4 @@ Hello World!
 Good bye!
 asdf
 Line from user2
+some new feature
