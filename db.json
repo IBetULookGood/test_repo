@@ -1,3 +1,6 @@
-{
-"username": antokir
-}
+[
+ - {
+     id: 1,
+     username: "antokir"
+   }
+]
