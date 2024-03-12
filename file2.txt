@@ -1,5 +1,0 @@
-GoodBye!!!
-Some other line
-Line from user2
-Another line from user2
-critical bug fixed
